@@ -1,0 +1,22 @@
+-- Query #4
+WITH COVID_JOIN_COUNTRY_INFO_CTE AS (
+    SELECT
+        A.REGION,
+        A.POPULATION,
+        A.AREA_SQ_MI,
+        B.WEEKLY_COUNT
+    FROM
+        public.countries_of_the_world A
+        INNER JOIN public.covid_19_cases_and_death B ON A.COUNTRY = B.COUNTRY
+    WHERE
+        YEAR_WEEK = TO_CHAR('2020-07-31' :: DATE, 'YYYY-WW')
+        AND B.INDICATOR = 'cases'
+)
+SELECT
+    REGION,
+    SUM(POPULATION) / SUM(AREA_SQ_MI) AS POP_DENSITY_PER_SQ_MI,
+    SUM(WEEKLY_COUNT) AS WEEKLY_COUNT
+FROM
+    COVID_JOIN_COUNTRY_INFO_CTE
+GROUP BY
+    REGION;

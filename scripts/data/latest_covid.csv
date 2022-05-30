@@ -1,0 +1,453 @@
+country	country_code	continent	population	indicator	weekly_count	year_week	rate_14_day	cumulative_count	source	note	meta_extracted_date
+Afghanistan	AFG	Asia	38928341	cases	407.0	2022-20	1.74166168550568	179674	Epidemic intelligence national data		2022-05-29
+Afghanistan	AFG	Asia	38928341	deaths	7.0	2022-20	0.308258705399236	7697	Epidemic intelligence national data		2022-05-29
+Africa (total)		Africa	1339423921	cases	53126.0	2022-20	7.45589192743706	11831362	Epidemic intelligence national data		2022-05-29
+Africa (total)		Africa	1339423921	deaths	231.0	2022-20	0.418090188789454	253688	Epidemic intelligence national data		2022-05-29
+Albania	ALB	Europe	2829741	cases	249.0	2022-20	17.5987837756176	275864	Epidemic intelligence national data		2022-05-29
+Albania	ALB	Europe	2829741	deaths	0.0	2022-20	0.0	3497	Epidemic intelligence national data		2022-05-29
+Algeria	DZA	Africa	43851043	cases	21.0	2022-20	0.0980592411450738	265841	Epidemic intelligence national data		2022-05-29
+Algeria	DZA	Africa	43851043	deaths	0.0	2022-20	0.0	6875	Epidemic intelligence national data		2022-05-29
+America (total)		America	1021703563	cases	994468.0	2022-20	202.764781784362	156477765	Epidemic intelligence national data		2022-05-29
+America (total)		America	1021703563	deaths	4257.0	2022-20	8.31845978401467	2743667	Epidemic intelligence national data		2022-05-29
+American Samoa	ASM	Oceania	55197	cases	88.0	2022-20	239.143431708245	6087	Epidemic intelligence national data		2022-05-29
+American Samoa	ASM	Oceania	55197	deaths	0.0	2022-20	18.116926644564	30	Epidemic intelligence national data		2022-05-29
+Andorra	AND	Europe	76177	cases	416.0	2022-20	1122.38602202765	42572	Epidemic intelligence national data		2022-05-29
+Andorra	AND	Europe	76177	deaths	0.0	2022-20	0.0	153	Epidemic intelligence national data		2022-05-29
+Angola	AGO	Africa	32866268	cases	146.0	2022-20	0.444224455298667	99433	Epidemic intelligence national data		2022-05-29
+Angola	AGO	Africa	32866268	deaths	0.0	2022-20	0.0	1900	Epidemic intelligence national data		2022-05-29
+Anguilla	AIA	America	15002	cases	132.0	2022-20	2186.37514998	3116	Epidemic intelligence national data		2022-05-29
+Anguilla	AIA	America	15002	deaths	0.0	2022-20	0.0	9	Epidemic intelligence national data		2022-05-29
+Antigua And Barbuda	ATG	America	97928	cases	187.0	2022-20	325.749530267135	7982	Epidemic intelligence national data		2022-05-29
+Antigua And Barbuda	ATG	America	97928	deaths	1.0	2022-20	10.2115840209133	138	Epidemic intelligence national data		2022-05-29
+Argentina	ARG	America	45195777	cases	43005.0	2022-20	168.732578709732	9177187	Epidemic intelligence national data		2022-05-29
+Argentina	ARG	America	45195777	deaths	49.0	2022-20	2.1240922575576	128825	Epidemic intelligence national data		2022-05-29
+Armenia	ARM	Europe	2963234	cases	22.0	2022-20	1.45111725904873	422939	Epidemic intelligence national data		2022-05-29
+Armenia	ARM	Europe	2963234	deaths	1.0	2022-20	0.337469130011332	8624	Epidemic intelligence national data		2022-05-29
+Aruba	ABW	America	106766	cases	644.0	2022-20	1152.05215143398	36564	Epidemic intelligence national data		2022-05-29
+Aruba	ABW	America	106766	deaths	0.0	2022-20	9.36627765393477	213	Epidemic intelligence national data		2022-05-29
+Asia (total)		Asia	4498460442	cases	1178338.0	2022-20	50.386838546751	132563392	Epidemic intelligence national data		2022-05-29
+Asia (total)		Asia	4498460442	deaths	1611.0	2022-20	0.71491125496486	1300204	Epidemic intelligence national data		2022-05-29
+Australia	AUS	Oceania	25499881	cases	360323.0	2022-20	2716.77346258988	6857879	Epidemic intelligence national data		2022-05-29
+Australia	AUS	Oceania	25499881	deaths	306.0	2022-20	22.4706930985286	8027	Epidemic intelligence national data		2022-05-29
+Austria	AUT	Europe	8932664	cases	20355.0	2022-20	561.635364321327	4258932	TESSy COVID-19		2022-05-29
+Austria	AUT	Europe	8932664	deaths	25.0	2022-20	6.26912643305513	16157	TESSy COVID-19		2022-05-29
+Azerbaijan	AZE	Europe	10139175	cases	39.0	2022-20	0.808744301188213	792712	Epidemic intelligence national data		2022-05-29
+Azerbaijan	AZE	Europe	10139175	deaths	1.0	2022-20	0.0986273538034406	9710	Epidemic intelligence national data		2022-05-29
+Bahamas	BHS	America	393248	cases	181.0	2022-20	70.9475954105297	34011	Epidemic intelligence national data		2022-05-29
+Bahamas	BHS	America	393248	deaths	1.0	2022-20	7.62877370005696	801	Epidemic intelligence national data		2022-05-29
+Bahrain	BHR	Asia	1701583	cases	3719.0	2022-20	503.119742028452	581371	Epidemic intelligence national data		2022-05-29
+Bahrain	BHR	Asia	1701583	deaths	3.0	2022-20	2.93844026415403	1482	Epidemic intelligence national data		2022-05-29
+Bangladesh	BGD	Asia	164689383	cases	221.0	2022-20	0.277492083384634	1953233	Epidemic intelligence national data		2022-05-29
+Bangladesh	BGD	Asia	164689383	deaths	1.0	2022-20	0.0060720368355499	29128	Epidemic intelligence national data		2022-05-29
+Barbados	BRB	America	287371	cases	2154.0	2022-20	1807.07169477783	79049	Epidemic intelligence national data		2022-05-29
+Barbados	BRB	America	287371	deaths	6.0	2022-20	34.7982225067944	440	Epidemic intelligence national data		2022-05-29
+Belarus	BLR	Europe	9449321	cases	0.0	2022-20	0.61380071647476	982867	Epidemic intelligence national data		2022-05-29
+Belarus	BLR	Europe	9449321	deaths	0.0	2022-20	0.423310838948111	6978	Epidemic intelligence national data		2022-05-29
+Belgium	BEL	Europe	11566041	cases	15845.0	2022-20	351.070863400882	4136754	TESSy COVID-19		2022-05-29
+Belgium	BEL	Europe	11566041	deaths	48.0	2022-20	10.1158209624192	31178	TESSy COVID-19		2022-05-29
+Belize	BLZ	America	397621	cases	589.0	2022-20	236.90901637489	58617	Epidemic intelligence national data		2022-05-29
+Belize	BLZ	America	397621	deaths	1.0	2022-20	2.51495771098609	677	Epidemic intelligence national data		2022-05-29
+Benin	BEN	Africa	12123198	cases	0.0	2022-20	0.0	26952	Epidemic intelligence national data		2022-05-29
+Benin	BEN	Africa	12123198	deaths	0.0	2022-20	0.0	163	Epidemic intelligence national data		2022-05-29
+Bermuda	BMU	America	62273	cases	307.0	2022-20	979.557753761662	14442	Epidemic intelligence national data		2022-05-29
+Bermuda	BMU	America	62273	deaths	2.0	2022-20	48.1749714964752	137	Epidemic intelligence national data		2022-05-29
+Bhutan	BTN	Asia	771612	cases	44.0	2022-20	15.1630612276637	59614	Epidemic intelligence national data		2022-05-29
+Bhutan	BTN	Asia	771612	deaths	0.0	2022-20	0.0	21	Epidemic intelligence national data		2022-05-29
+Bolivia	BOL	America	11673029	cases	522.0	2022-20	12.6016991819347	906743	Epidemic intelligence national data		2022-05-29
+Bolivia	BOL	America	11673029	deaths	17.0	2022-20	1.62768378284677	21943	Epidemic intelligence national data		2022-05-29
+Bonaire, Saint Eustatius And Saba	BES	America	26221	cases	58.0	2022-20	507.22703176843	10076	Epidemic intelligence national data		2022-05-29
+Bonaire, Saint Eustatius And Saba	BES	America	26221	deaths	0.0	2022-20	0.0	35	Epidemic intelligence national data		2022-05-29
+Bosnia And Herzegovina	BIH	Europe	3280815	cases	166.0	2022-20	11.887290200758	377745	Epidemic intelligence national data		2022-05-29
+Bosnia And Herzegovina	BIH	Europe	3280815	deaths	4.0	2022-20	4.2672323797593	15785	Epidemic intelligence national data		2022-05-29
+Botswana	BWA	Africa	2351625	cases	496.0	2022-20	21.0917982246319	306716	Epidemic intelligence national data		2022-05-29
+Botswana	BWA	Africa	2351625	deaths	5.0	2022-20	2.12618933716047	2703	Epidemic intelligence national data		2022-05-29
+Brazil	BRA	America	212559409	cases	102830.0	2022-20	106.645008596162	30791220	Epidemic intelligence national data		2022-05-29
+Brazil	BRA	America	212559409	deaths	709.0	2022-20	7.00039582816115	665627	Epidemic intelligence national data		2022-05-29
+British Virgin Islands	VGB	America	30237	cases	117.0	2022-20	1107.91414492179	6690	Epidemic intelligence national data		2022-05-29
+British Virgin Islands	VGB	America	30237	deaths	55.0	2022-20	1818.96352151338	117	Epidemic intelligence national data		2022-05-29
+Brunei Darussalam	BRN	Asia	437483	cases	1656.0	2022-20	790.202133568619	146315	Epidemic intelligence national data		2022-05-29
+Brunei Darussalam	BRN	Asia	437483	deaths	1.0	2022-20	2.2858031054921	160	Epidemic intelligence national data		2022-05-29
+Bulgaria	BGR	Europe	6916548	cases	1813.0	2022-20	60.2468167646635	1163317	TESSy COVID-19		2022-05-29
+Bulgaria	BGR	Europe	6916548	deaths	45.0	2022-20	17.9280184276897	37090	TESSy COVID-19		2022-05-29
+Burkina Faso	BFA	Africa	20903278	cases	0.0	2022-20	0.0	20899	Epidemic intelligence national data		2022-05-29
+Burkina Faso	BFA	Africa	20903278	deaths	0.0	2022-20	0.0	384	Epidemic intelligence national data		2022-05-29
+Burundi	BDI	Africa	11890781	cases	371.0	2022-20	6.39991603579277	41606	Epidemic intelligence national data		2022-05-29
+Burundi	BDI	Africa	11890781	deaths	0.0	2022-20	0.0	15	Epidemic intelligence national data		2022-05-29
+Cambodia	KHM	Asia	16718971	cases	0.0	2022-20	0.0	136262	Epidemic intelligence national data		2022-05-29
+Cambodia	KHM	Asia	16718971	deaths	0.0	2022-20	0.0	3056	Epidemic intelligence national data		2022-05-29
+Cameroon	CMR	Africa	26545864	cases	0.0	2022-20	0.0	119780	Epidemic intelligence national data		2022-05-29
+Cameroon	CMR	Africa	26545864	deaths	0.0	2022-20	0.0	1927	Epidemic intelligence national data		2022-05-29
+Canada	CAN	America	37742157	cases	24034.0	2022-20	145.797178470748	3847863	Epidemic intelligence national data		2022-05-29
+Canada	CAN	America	37742157	deaths	437.0	2022-20	24.1639607402407	40695	Epidemic intelligence national data		2022-05-29
+Cape Verde	CPV	Africa	555988	cases	67.0	2022-20	19.2450196766837	56172	Epidemic intelligence national data		2022-05-29
+Cape Verde	CPV	Africa	555988	deaths	0.0	2022-20	0.0	401	Epidemic intelligence national data		2022-05-29
+Cayman Islands	CYM	America	65720	cases	899.0	2022-20	2509.12964090079	24477	Epidemic intelligence national data		2022-05-29
+Cayman Islands	CYM	America	65720	deaths	0.0	2022-20	0.0	28	Epidemic intelligence national data		2022-05-29
+Central African Republic	CAF	Africa	4829764	cases	7.0	2022-20	0.207049454176229	14372	Epidemic intelligence national data		2022-05-29
+Central African Republic	CAF	Africa	4829764	deaths	0.0	2022-20	0.0	113	Epidemic intelligence national data		2022-05-29
+Chad	TCD	Africa	16425859	cases	3.0	2022-20	0.0182638850120411	7417	Epidemic intelligence national data		2022-05-29
+Chad	TCD	Africa	16425859	deaths	0.0	2022-20	0.0	193	Epidemic intelligence national data		2022-05-29
+Chile	CHL	America	19116209	cases	35548.0	2022-20	355.781839380392	3647361	Epidemic intelligence national data		2022-05-29
+Chile	CHL	America	19116209	deaths	85.0	2022-20	9.04991151749806	57810	Epidemic intelligence national data		2022-05-29
+China	CHN	Asia	1439323774	cases	1758.0	2022-20	0.318760801626278	555408	Epidemic intelligence national data		2022-05-29
+China	CHN	Asia	1439323774	deaths	19.0	2022-20	0.0430757840035511	14593	Epidemic intelligence national data		2022-05-29
+Colombia	COL	America	50882884	cases	3795.0	2022-20	10.7423156281786	6099111	Epidemic intelligence national data		2022-05-29
+Colombia	COL	America	50882884	deaths	12.0	2022-20	0.471671377746592	139833	Epidemic intelligence national data		2022-05-29
+Comoros	COM	Africa	869595	cases	6.0	2022-20	0.804972429694283	8114	Epidemic intelligence national data		2022-05-29
+Comoros	COM	Africa	869595	deaths	0.0	2022-20	0.0	160	Epidemic intelligence national data		2022-05-29
+Congo	COG	Africa	5518092	cases	11.0	2022-20	0.199344266097774	24114	Epidemic intelligence national data		2022-05-29
+Congo	COG	Africa	5518092	deaths	0.0	2022-20	0.0	385	Epidemic intelligence national data		2022-05-29
+Cook Islands	COK	Oceania	17564	cases	237.0	2022-20	1349.35094511501	5543	Epidemic intelligence national data		2022-05-29
+Cook Islands	COK	Oceania	17564	deaths	0.0	2022-20	0.0	1	Epidemic intelligence national data		2022-05-29
+Costa Rica	CRI	America	5094114	cases	14405.0	2022-20	505.956482324502	891938	Epidemic intelligence national data		2022-05-29
+Costa Rica	CRI	America	5094114	deaths	23.0	2022-20	10.0115545117365	8495	Epidemic intelligence national data		2022-05-29
+Cote Divoire	CIV	Africa	26378275	cases	67.0	2022-20	0.3563538555876	82068	Epidemic intelligence national data		2022-05-29
+Cote Divoire	CIV	Africa	26378275	deaths	0.0	2022-20	0.0	799	Epidemic intelligence national data		2022-05-29
+Croatia	HRV	Europe	4036355	cases	2782.0	2022-20	160.78863231802	1134225	Epidemic intelligence national data		2022-05-29
+Croatia	HRV	Europe	4036355	deaths	36.0	2022-20	19.3243656715031	15966	Epidemic intelligence national data		2022-05-29
+Cuba	CUB	America	11326616	cases	355.0	2022-20	8.46678301798172	1105016	Epidemic intelligence national data		2022-05-29
+Cuba	CUB	America	11326616	deaths	0.0	2022-20	0.176575245421934	8529	Epidemic intelligence national data		2022-05-29
+Curaçao	CUW	America	164100	cases	473.0	2022-20	577.696526508227	43622	Epidemic intelligence national data		2022-05-29
+Curaçao	CUW	America	164100	deaths	1.0	2022-20	12.187690432663	277	Epidemic intelligence national data		2022-05-29
+Cyprus	CYP	Europe	896007	cases	1736.0	2022-20	424.438648358774	479549	TESSy COVID-19		2022-05-29
+Cyprus	CYP	Europe	896007	deaths	6.0	2022-20	15.6248779306412	1168	TESSy COVID-19		2022-05-29
+Czechia	CZE	Europe	10701777	cases	2194.0	2022-20	52.3557910055498	3914682	TESSy COVID-19		2022-05-29
+Czechia	CZE	Europe	10701777	deaths	10.0	2022-20	2.80327276488755	40208	TESSy COVID-19		2022-05-29
+Democratic Republic Of The Congo	COD	Africa	89561404	cases	610.0	2022-20	0.966934372757265	87634	Epidemic intelligence national data		2022-05-29
+Democratic Republic Of The Congo	COD	Africa	89561404	deaths	1.0	2022-20	0.0111655239348414	1338	Epidemic intelligence national data		2022-05-29
+Denmark	DNK	Europe	5840045	cases	3710.0	2022-20	137.772910996405	2815812	TESSy COVID-19		2022-05-29
+Denmark	DNK	Europe	5840045	deaths	25.0	2022-20	12.6711352395401	5328	Epidemic intelligence national data		2022-05-29
+Djibouti	DJI	Africa	988002	cases	44.0	2022-20	4.45343228050146	15675	Epidemic intelligence national data		2022-05-29
+Djibouti	DJI	Africa	988002	deaths	0.0	2022-20	0.0	189	Epidemic intelligence national data		2022-05-29
+Dominica	DMA	America	71991	cases	636.0	2022-20	1748.82971482546	13752	Epidemic intelligence national data		2022-05-29
+Dominica	DMA	America	71991	deaths	0.0	2022-20	0.0	63	Epidemic intelligence national data		2022-05-29
+Dominican Republic	DOM	America	10847904	cases	803.0	2022-20	14.1133254866562	581464	Epidemic intelligence national data		2022-05-29
+Dominican Republic	DOM	America	10847904	deaths	0.0	2022-20	0.0921837066404718	4377	Epidemic intelligence national data		2022-05-29
+Ecuador	ECU	America	17643060	cases	2285.0	2022-20	21.5212100395283	874750	Epidemic intelligence national data		2022-05-29
+Ecuador	ECU	America	17643060	deaths	8.0	2022-20	0.906872163899006	35617	Epidemic intelligence national data		2022-05-29
+Egypt	EGY	Africa	102334403	cases	35.0	2022-20	0.0684031937920232	513916	Epidemic intelligence national data		2022-05-29
+Egypt	EGY	Africa	102334403	deaths	14.0	2022-20	0.342015968960116	24704	Epidemic intelligence national data		2022-05-29
+El Salvador	SLV	America	6486201	cases	0.0	2022-20	0.0	162089	Epidemic intelligence national data		2022-05-29
+El Salvador	SLV	America	6486201	deaths	1.0	2022-20	0.462520356677198	4131	Epidemic intelligence national data		2022-05-29
+Equatorial Guinea	GNQ	Africa	1402985	cases	0.0	2022-20	0.213829798607968	16007	Epidemic intelligence national data		2022-05-29
+Equatorial Guinea	GNQ	Africa	1402985	deaths	0.0	2022-20	0.0	183	Epidemic intelligence national data		2022-05-29
+Eritrea	ERI	Africa	3546427	cases	8.0	2022-20	0.451158306656249	9753	Epidemic intelligence national data		2022-05-29
+Eritrea	ERI	Africa	3546427	deaths	0.0	2022-20	0.0	103	Epidemic intelligence national data		2022-05-29
+Estonia	EST	Europe	1330068	cases	953.0	2022-20	159.841451715251	561012	TESSy COVID-19		2022-05-29
+Estonia	EST	Europe	1330068	deaths	5.0	2022-20	6.01473007395111	2440	TESSy COVID-19		2022-05-29
+Eswatini	SWZ	Africa	1160164	cases	445.0	2022-20	90.3320565023566	72150	Epidemic intelligence national data		2022-05-29
+Eswatini	SWZ	Africa	1160164	deaths	1.0	2022-20	3.44778841612048	1404	Epidemic intelligence national data		2022-05-29
+Ethiopia	ETH	Africa	114963583	cases	424.0	2022-20	0.550609143766857	471373	Epidemic intelligence national data		2022-05-29
+Ethiopia	ETH	Africa	114963583	deaths	2.0	2022-20	0.0173968133891582	7512	Epidemic intelligence national data		2022-05-29
+EU/EEA (total)		Europe	453017979	cases	1002530.0	2022-20	514.600768196001	142950094	Epidemic intelligence national data and TESSy COVID-19		2022-05-29
+EU/EEA (total)		Europe	453017979	deaths	2391.0	2022-20	12.5778672461916	1100336	Epidemic intelligence national data and TESSy COVID-19		2022-05-29
+Europe (total)		Europe	851549891	cases	1086190.0	2022-20	300.663417030489	215253258	Epidemic intelligence national data		2022-05-29
+Europe (total)		Europe	851549891	deaths	3627.0	2022-20	10.4667971826445	1982201	Epidemic intelligence national data		2022-05-29
+Falkland Islands (Malvinas)	FLK	America	3483	cases	0.0	2022-20	21073.7869652598	1126	Epidemic intelligence national data		2022-05-29
+Falkland Islands (Malvinas)	FLK	America	3483	deaths	0.0	2022-20	0.0	0	Epidemic intelligence national data		2022-05-29
+Faroe Islands	FRO	Europe	48865	cases	0.0	2022-20	0.0	34658	Epidemic intelligence national data		2022-05-29
+Faroe Islands	FRO	Europe	48865	deaths	0.0	2022-20	0.0	28	Epidemic intelligence national data		2022-05-29
+Fiji	FJI	Oceania	896444	cases	86.0	2022-20	19.2984726318655	64898	Epidemic intelligence national data		2022-05-29
+Fiji	FJI	Oceania	896444	deaths	0.0	2022-20	0.0	862	Epidemic intelligence national data		2022-05-29
+Finland	FIN	Europe	5533793	cases	9792.0	2022-20	404.857933789717	1079694	TESSy COVID-19		2022-05-29
+Finland	FIN	Europe	5533793	deaths	28.0	2022-20	23.8534401268714	5855	TESSy COVID-19		2022-05-29
+France	FRA	Europe	67656682	cases	174715.0	2022-20	599.936307843178	29375885	TESSy COVID-19		2022-05-29
+France	FRA	Europe	67656682	deaths	487.0	2022-20	16.5098252970786	161827	TESSy COVID-19		2022-05-29
+French Polynesia	PYF	Oceania	280904	cases	40.0	2022-20	32.0394156010594	72876	Epidemic intelligence national data		2022-05-29
+French Polynesia	PYF	Oceania	280904	deaths	0.0	2022-20	3.55993506678438	649	Epidemic intelligence national data		2022-05-29
+Gabon	GAB	Africa	2225728	cases	14.0	2022-20	0.629007677487995	47622	Epidemic intelligence national data		2022-05-29
+Gabon	GAB	Africa	2225728	deaths	0.0	2022-20	0.0	304	Epidemic intelligence national data		2022-05-29
+Gambia	GMB	Africa	2416664	cases	3.0	2022-20	0.24827613602884	12002	Epidemic intelligence national data		2022-05-29
+Gambia	GMB	Africa	2416664	deaths	0.0	2022-20	0.0	365	Epidemic intelligence national data		2022-05-29
+Georgia	GEO	Europe	3989175	cases	0.0	2022-20	0.0	1655221	Epidemic intelligence national data		2022-05-29
+Georgia	GEO	Europe	3989175	deaths	0.0	2022-20	0.0	16811	Epidemic intelligence national data		2022-05-29
+Germany	DEU	Europe	83155031	cases	288598.0	2022-20	838.023859314056	26077382	TESSy COVID-19		2022-05-29
+Germany	DEU	Europe	83155031	deaths	170.0	2022-20	6.56604890208026	138473	TESSy COVID-19		2022-05-29
+Ghana	GHA	Africa	31072945	cases	71.0	2022-20	0.415152152459318	161351	Epidemic intelligence national data		2022-05-29
+Ghana	GHA	Africa	31072945	deaths	0.0	2022-20	0.0	1445	Epidemic intelligence national data		2022-05-29
+Gibraltar	GIB	Europe	33691	cases	144.0	2022-20	822.17802974088	18273	Epidemic intelligence national data		2022-05-29
+Gibraltar	GIB	Europe	33691	deaths	0.0	2022-20	0.0	102	Epidemic intelligence national data		2022-05-29
+Greece	GRC	Europe	10678632	cases	26824.0	2022-20	539.310653274689	3422137	TESSy COVID-19		2022-05-29
+Greece	GRC	Europe	10678632	deaths	129.0	2022-20	26.1269421026963	29709	TESSy COVID-19		2022-05-29
+Greenland	GRL	America	56772	cases	0.0	2022-20	0.0	11971	Epidemic intelligence national data		2022-05-29
+Greenland	GRL	America	56772	deaths	0.0	2022-20	0.0	21	Epidemic intelligence national data		2022-05-29
+Grenada	GRD	America	112519	cases	634.0	2022-20	1637.94559141123	17146	Epidemic intelligence national data		2022-05-29
+Grenada	GRD	America	112519	deaths	2.0	2022-20	26.66216372346	223	Epidemic intelligence national data		2022-05-29
+Guam	GUM	Oceania	168783	cases	205.0	2022-20	232.843355077229	48762	Epidemic intelligence national data		2022-05-29
+Guam	GUM	Oceania	168783	deaths	0.0	2022-20	23.6990692190564	361	Epidemic intelligence national data		2022-05-29
+Guatemala	GTM	America	17915567	cases	3985.0	2022-20	39.2061272746768	856576	Epidemic intelligence national data		2022-05-29
+Guatemala	GTM	America	17915567	deaths	140.0	2022-20	14.847422914385	17969	Epidemic intelligence national data		2022-05-29
+Guernsey	GGY	Europe	64468	cases	258.0	2022-20	769.373952968915	25328	Epidemic intelligence national data		2022-05-29
+Guernsey	GGY	Europe	64468	deaths	2.0	2022-20	31.0231432648756	47	Epidemic intelligence national data		2022-05-29
+Guinea	GIN	Africa	13132792	cases	64.0	2022-20	0.852827030230891	36661	Epidemic intelligence national data		2022-05-29
+Guinea	GIN	Africa	13132792	deaths	0.0	2022-20	0.0	442	Epidemic intelligence national data		2022-05-29
+Guinea Bissau	GNB	Africa	1967998	cases	24.0	2022-20	1.6768309723892	8246	Epidemic intelligence national data		2022-05-29
+Guinea Bissau	GNB	Africa	1967998	deaths	0.0	2022-20	0.0	171	Epidemic intelligence national data		2022-05-29
+Guyana	GUY	America	786559	cases	415.0	2022-20	100.691747217946	64276	Epidemic intelligence national data		2022-05-29
+Guyana	GUY	America	786559	deaths	3.0	2022-20	3.81408133401309	1231	Epidemic intelligence national data		2022-05-29
+Haiti	HTI	America	11402533	cases	21.0	2022-20	0.377109191440183	30746	Epidemic intelligence national data		2022-05-29
+Haiti	HTI	America	11402533	deaths	0.0	2022-20	0.0	835	Epidemic intelligence national data		2022-05-29
+Holy See	VAT	Europe	809	cases	0.0	2022-20	0.0	28	Epidemic intelligence national data		2022-05-29
+Holy See	VAT	Europe	809	deaths	0.0	2022-20	0.0	0	Epidemic intelligence national data		2022-05-29
+Honduras	HND	America	9904608	cases	324.0	2022-20	9.00590916874247	424771	Epidemic intelligence national data		2022-05-29
+Honduras	HND	America	9904608	deaths	0.0	2022-20	0.100963107272898	10896	Epidemic intelligence national data		2022-05-29
+Hungary	HUN	Europe	9730772	cases	3080.0	2022-20	80.4561035856148	1917858	TESSy COVID-19		2022-05-29
+Hungary	HUN	Europe	9730772	deaths	17.0	2022-20	9.45454276392459	45290	TESSy COVID-19		2022-05-29
+Iceland	ISL	Europe	368792	cases	863.0	2022-20	444.966268248769	188659	TESSy COVID-19		2022-05-29
+Iceland	ISL	Europe	368792	deaths	0.0	2022-20	0.0	114	TESSy COVID-19		2022-05-29
+India	IND	Asia	1380004385	cases	14592.0	2022-20	2.39071704109114	43138393	Epidemic intelligence national data		2022-05-29
+India	IND	Asia	1380004385	deaths	218.0	2022-20	0.265216548569155	524459	Epidemic intelligence national data		2022-05-29
+Indonesia	IDN	Asia	273523621	cases	1988.0	2022-20	1.58414106399973	6052764	Epidemic intelligence national data		2022-05-29
+Indonesia	IDN	Asia	273523621	deaths	76.0	2022-20	0.559366680803045	156534	Epidemic intelligence national data		2022-05-29
+Iran	IRN	Asia	83992953	cases	1690.0	2022-20	6.00050339937447	7229741	Epidemic intelligence national data		2022-05-29
+Iran	IRN	Asia	83992953	deaths	47.0	2022-20	1.26201063558273	141271	Epidemic intelligence national data		2022-05-29
+Iraq	IRQ	Asia	40222503	cases	811.0	2022-20	4.1146121612571	2327269	Epidemic intelligence national data		2022-05-29
+Iraq	IRQ	Asia	40222503	deaths	0.0	2022-20	0.0745851147055667	25216	Epidemic intelligence national data		2022-05-29
+Ireland	IRL	Europe	5006324	cases	4087.0	2022-20	170.444421895187	1533995	TESSy COVID-19		2022-05-29
+Ireland	IRL	Europe	5006324	deaths	41.0	2022-20	22.5714516279809	7244	Epidemic intelligence national data		2022-05-29
+Isle Of Man	IMN	Europe	85032	cases	194.0	2022-20	435.130303885596	32794	Epidemic intelligence national data		2022-05-29
+Isle Of Man	IMN	Europe	85032	deaths	0.0	2022-20	11.7602784833945	105	Epidemic intelligence national data		2022-05-29
+Israel	ISR	Asia	8655541	cases	14121.0	2022-20	366.84015476329	4123806	Epidemic intelligence national data		2022-05-29
+Israel	ISR	Asia	8655541	deaths	33.0	2022-20	10.6290294275078	10833	Epidemic intelligence national data		2022-05-29
+Italy	ITA	Europe	59236213	cases	140721.0	2022-20	664.831494207775	17285705	TESSy COVID-19		2022-05-29
+Italy	ITA	Europe	59236213	deaths	708.0	2022-20	24.6977300861552	165952	Epidemic intelligence national data		2022-05-29
+Jamaica	JAM	America	2961161	cases	2184.0	2022-20	127.179846013101	135093	Epidemic intelligence national data		2022-05-29
+Jamaica	JAM	America	2961161	deaths	26.0	2022-20	19.2492066456366	3037	Epidemic intelligence national data		2022-05-29
+Japan	JPN	Asia	126476458	cases	245009.0	2022-20	409.438252927671	8600312	Epidemic intelligence national data		2022-05-29
+Japan	JPN	Asia	126476458	deaths	246.0	2022-20	3.90586523224741	30299	Epidemic intelligence national data		2022-05-29
+Jersey	JEY	Europe	107796	cases	206.0	2022-20	376.637352035326	50439	Epidemic intelligence national data		2022-05-29
+Jersey	JEY	Europe	107796	deaths	2.0	2022-20	18.5535641396712	129	Epidemic intelligence national data		2022-05-29
+Jordan	JOR	Asia	10203140	cases	309.0	2022-20	6.01775531846079	1696668	Epidemic intelligence national data		2022-05-29
+Jordan	JOR	Asia	10203140	deaths	0.0	2022-20	0.0	14066	Epidemic intelligence national data		2022-05-29
+Kazakhstan	KAZ	Asia	18776707	cases	87.0	2022-20	0.937331556592964	1394808	Epidemic intelligence national data		2022-05-29
+Kazakhstan	KAZ	Asia	18776707	deaths	0.0	2022-20	0.0532574748064184	19015	Epidemic intelligence national data		2022-05-29
+Kenya	KEN	Africa	53771300	cases	216.0	2022-20	0.671361860323258	324242	Epidemic intelligence national data		2022-05-29
+Kenya	KEN	Africa	53771300	deaths	2.0	2022-20	0.0371945628987955	5651	Epidemic intelligence national data		2022-05-29
+Kiribati	KIR	Oceania	119446	cases	5.0	2022-20	7.53478559348995	3098	Epidemic intelligence national data		2022-05-29
+Kiribati	KIR	Oceania	119446	deaths	0.0	2022-20	0.0	13	Epidemic intelligence national data		2022-05-29
+Kosovo	XKX	Europe	1782115	cases	68.0	2022-20	9.14643555550568	228309	Epidemic intelligence national data		2022-05-29
+Kosovo	XKX	Europe	1782115	deaths	0.0	2022-20	0.561131015675195	3139	Epidemic intelligence national data		2022-05-29
+Kuwait	KWT	Asia	4270563	cases	400.0	2022-20	19.5056249023841	632474	Epidemic intelligence national data		2022-05-29
+Kuwait	KWT	Asia	4270563	deaths	0.0	2022-20	0.0	2555	Epidemic intelligence national data		2022-05-29
+Kyrgyzstan	KGZ	Asia	6524191	cases	0.0	2022-20	0.0	200993	Epidemic intelligence national data		2022-05-29
+Kyrgyzstan	KGZ	Asia	6524191	deaths	0.0	2022-20	0.0	2991	Epidemic intelligence national data		2022-05-29
+Laos	LAO	Asia	7275556	cases	485.0	2022-20	16.3973722420665	209728	Epidemic intelligence national data		2022-05-29
+Laos	LAO	Asia	7275556	deaths	2.0	2022-20	0.687232700841008	754	Epidemic intelligence national data		2022-05-29
+Latvia	LVA	Europe	1893223	cases	1208.0	2022-20	139.497565791246	824767	TESSy COVID-19		2022-05-29
+Latvia	LVA	Europe	1893223	deaths	12.0	2022-20	14.2613944580221	6428	TESSy COVID-19		2022-05-29
+Lebanon	LBN	Asia	6825442	cases	542.0	2022-20	15.1931552564654	1098576	Epidemic intelligence national data		2022-05-29
+Lebanon	LBN	Asia	6825442	deaths	10.0	2022-20	2.7837025060062	10418	Epidemic intelligence national data		2022-05-29
+Lesotho	LSO	Africa	2142252	cases	154.0	2022-20	7.18869675463018	33305	Epidemic intelligence national data		2022-05-29
+Lesotho	LSO	Africa	2142252	deaths	1.0	2022-20	0.466798490560401	698	Epidemic intelligence national data		2022-05-29
+Liberia	LBR	Africa	5057677	cases	3.0	2022-20	0.415210382157659	7456	Epidemic intelligence national data		2022-05-29
+Liberia	LBR	Africa	5057677	deaths	0.0	2022-20	0.0	294	Epidemic intelligence national data		2022-05-29
+Libya	LBY	Africa	6871287	cases	33.0	2022-20	0.989625378768199	501987	Epidemic intelligence national data		2022-05-29
+Libya	LBY	Africa	6871287	deaths	0.0	2022-20	0.0	6430	Epidemic intelligence national data		2022-05-29
+Liechtenstein	LIE	Europe	39055	cases	60.0	2022-20	322.621943413135	17285	TESSy COVID-19		2022-05-29
+Liechtenstein	LIE	Europe	39055	deaths	0.0	2022-20	0.0	81	TESSy COVID-19		2022-05-29
+Lithuania	LTU	Europe	2795680	cases	886.0	2022-20	67.1035311623648	1399556	TESSy COVID-19		2022-05-29
+Lithuania	LTU	Europe	2795680	deaths	3.0	2022-20	1.43077891604189	9188	TESSy COVID-19		2022-05-29
+Luxembourg	LUX	Europe	634730	cases	2243.0	2022-20	852.488459660013	270970	TESSy COVID-19		2022-05-29
+Luxembourg	LUX	Europe	634730	deaths	5.0	2022-20	15.7547303577899	1270	TESSy COVID-19		2022-05-29
+Madagascar	MDG	Africa	27691019	cases	38.0	2022-20	0.281679774947971	64314	Epidemic intelligence national data		2022-05-29
+Madagascar	MDG	Africa	27691019	deaths	0.0	2022-20	0.0	1393	Epidemic intelligence national data		2022-05-29
+Malawi	MWI	Africa	19129955	cases	42.0	2022-20	0.590696632584865	85929	Epidemic intelligence national data		2022-05-29
+Malawi	MWI	Africa	19129955	deaths	2.0	2022-20	0.209096153127386	2638	Epidemic intelligence national data		2022-05-29
+Malaysia	MYS	Asia	32365998	cases	13198.0	2022-20	100.200834221148	4491320	Epidemic intelligence national data		2022-05-29
+Malaysia	MYS	Asia	32365998	deaths	28.0	2022-20	1.85379730913905	35643	Epidemic intelligence national data		2022-05-29
+Maldives	MDV	Asia	540542	cases	179.0	2022-20	45.8798761243345	179662	Epidemic intelligence national data		2022-05-29
+Maldives	MDV	Asia	540542	deaths	0.0	2022-20	0.0	298	Epidemic intelligence national data		2022-05-29
+Mali	MLI	Africa	20250834	cases	52.0	2022-20	0.587630119332369	31056	Epidemic intelligence national data		2022-05-29
+Mali	MLI	Africa	20250834	deaths	1.0	2022-20	0.0493806822968378	734	Epidemic intelligence national data		2022-05-29
+Malta	MLT	Europe	516100	cases	537.0	2022-20	231.544274365433	94139	TESSy COVID-19		2022-05-29
+Malta	MLT	Europe	516100	deaths	4.0	2022-20	15.5008719240457	676	TESSy COVID-19		2022-05-29
+Marshall Islands	MHL	Oceania	59194	cases	0.0	2022-20	0.0	17	Epidemic intelligence national data		2022-05-29
+Marshall Islands	MHL	Oceania	59194	deaths	0.0	2022-20	0.0	0	Epidemic intelligence national data		2022-05-29
+Mauritania	MRT	Africa	4649660	cases	150.0	2022-20	4.92509129699806	59007	Epidemic intelligence national data		2022-05-29
+Mauritania	MRT	Africa	4649660	deaths	0.0	2022-20	0.0	982	Epidemic intelligence national data		2022-05-29
+Mauritius	MUS	Africa	1271767	cases	929.0	2022-20	147.35403576284	224722	Epidemic intelligence national data		2022-05-29
+Mauritius	MUS	Africa	1271767	deaths	0.0	2022-20	0.0	996	Epidemic intelligence national data		2022-05-29
+Mexico	MEX	America	128932753	cases	7332.0	2022-20	10.9522209612634	5759773	Epidemic intelligence national data		2022-05-29
+Mexico	MEX	America	128932753	deaths	151.0	2022-20	2.35006228401871	324768	Epidemic intelligence national data		2022-05-29
+Micronesia (Federated States Of)	FSM	Oceania	115021	cases	0.0	2022-20	0.0	7	Epidemic intelligence national data		2022-05-29
+Micronesia (Federated States Of)	FSM	Oceania	115021	deaths	0.0	2022-20	0.0	0	Epidemic intelligence national data		2022-05-29
+Moldova	MDA	Europe	4033963	cases	739.0	2022-20	18.3194540951417	518492	Epidemic intelligence national data		2022-05-29
+Moldova	MDA	Europe	4033963	deaths	18.0	2022-20	4.46211331140122	11521	Epidemic intelligence national data		2022-05-29
+Monaco	MCO	Europe	39244	cases	74.0	2022-20	468.861482009989	12109	Epidemic intelligence national data		2022-05-29
+Monaco	MCO	Europe	39244	deaths	0.0	2022-20	0.0	57	Epidemic intelligence national data		2022-05-29
+Mongolia	MNG	Asia	3278292	cases	391.0	2022-20	56.0352769063891	922618	Epidemic intelligence national data		2022-05-29
+Mongolia	MNG	Asia	3278292	deaths	4.0	2022-20	1.52518445580809	2115	Epidemic intelligence national data		2022-05-29
+Montenegro	MNE	Europe	620739	cases	401.0	2022-20	149.177029315058	236721	Epidemic intelligence national data		2022-05-29
+Montenegro	MNE	Europe	620739	deaths	0.0	2022-20	3.22196607591919	2719	Epidemic intelligence national data		2022-05-29
+Montserrat	MSR	America	4999	cases	168.0	2022-20	9261.8523704741	915	Epidemic intelligence national data		2022-05-29
+Montserrat	MSR	America	4999	deaths	2.0	2022-20	400.080016003201	4	Epidemic intelligence national data		2022-05-29
+Morocco	MAR	Africa	36910558	cases	833.0	2022-20	3.74147689666464	1166628	Epidemic intelligence national data		2022-05-29
+Morocco	MAR	Africa	36910558	deaths	4.0	2022-20	0.135462595824208	16075	Epidemic intelligence national data		2022-05-29
+Mozambique	MOZ	Africa	31255435	cases	79.0	2022-20	0.483115976469372	225577	Epidemic intelligence national data		2022-05-29
+Mozambique	MOZ	Africa	31255435	deaths	2.0	2022-20	0.063988871055546	2203	Epidemic intelligence national data		2022-05-29
+Myanmar	MMR	Asia	54409794	cases	87.0	2022-20	0.319795366253362	613227	Epidemic intelligence national data		2022-05-29
+Myanmar	MMR	Asia	54409794	deaths	0.0	2022-20	0.0	19434	Epidemic intelligence national data		2022-05-29
+Namibia	NAM	Africa	2540916	cases	2368.0	2022-20	132.432555818453	164850	Epidemic intelligence national data		2022-05-29
+Namibia	NAM	Africa	2540916	deaths	3.0	2022-20	1.96779429150747	4032	Epidemic intelligence national data		2022-05-29
+Nepal	NPL	Asia	29136808	cases	78.0	2022-20	0.459899382252167	979076	Epidemic intelligence national data		2022-05-29
+Nepal	NPL	Asia	29136808	deaths	0.0	2022-20	0.0	11952	Epidemic intelligence national data		2022-05-29
+Netherlands	NLD	Europe	17475415	cases	7715.0	2022-20	95.2480956818479	8077137	TESSy COVID-19		2022-05-29
+Netherlands	NLD	Europe	17475415	deaths	9.0	2022-20	1.25891144788264	22309	TESSy COVID-19		2022-05-29
+New Caledonia	NCL	Oceania	285491	cases	695.0	2022-20	348.522370232337	61880	Epidemic intelligence national data		2022-05-29
+New Caledonia	NCL	Oceania	285491	deaths	1.0	2022-20	3.50273738926971	313	Epidemic intelligence national data		2022-05-29
+New Zealand	NZL	Oceania	4822233	cases	62475.0	2022-20	2414.08907450138	1109145	Epidemic intelligence national data		2022-05-29
+New Zealand	NZL	Oceania	4822233	deaths	102.0	2022-20	45.4146450410007	1031	Epidemic intelligence national data		2022-05-29
+Nicaragua	NIC	America	6624554	cases	0.0	2022-20	0.0	18491	Epidemic intelligence national data		2022-05-29
+Nicaragua	NIC	America	6624554	deaths	0.0	2022-20	0.0	225	Epidemic intelligence national data		2022-05-29
+Niger	NER	Africa	24206636	cases	18.0	2022-20	0.185899436832115	9031	Epidemic intelligence national data		2022-05-29
+Niger	NER	Africa	24206636	deaths	0.0	2022-20	0.0413109859626922	310	Epidemic intelligence national data		2022-05-29
+Nigeria	NGA	Africa	206139587	cases	78.0	2022-20	0.0829534988832591	255937	Epidemic intelligence national data		2022-05-29
+Nigeria	NGA	Africa	206139587	deaths	0.0	2022-20	0.0	3143	Epidemic intelligence national data		2022-05-29
+North Macedonia	MKD	Europe	2068808	cases	491.0	2022-20	50.8505380876331	311350	Epidemic intelligence national data		2022-05-29
+North Macedonia	MKD	Europe	2068808	deaths	6.0	2022-20	4.83370133912862	9297	Epidemic intelligence national data		2022-05-29
+Northern Mariana Islands	MNP	Oceania	57557	cases	10.0	2022-20	59.0718765745261	11315	Epidemic intelligence national data		2022-05-29
+Northern Mariana Islands	MNP	Oceania	57557	deaths	0.0	2022-20	0.0	34	Epidemic intelligence national data		2022-05-29
+Norway	NOR	Europe	5391369	cases	1474.0	2022-20	60.0960535255517	1431485	Epidemic intelligence national data		2022-05-29
+Norway	NOR	Europe	5391369	deaths	33.0	2022-20	16.3223849081745	3094	Epidemic intelligence national data		2022-05-29
+Oceania (total)		Oceania	42652215	cases	426949.0	2022-20	1915.18541299672	8342060	Epidemic intelligence national data		2022-05-29
+Oceania (total)		Oceania	42652215	deaths	411.0	2022-20	18.8970256292669	12181	Epidemic intelligence national data		2022-05-29
+Oman	OMN	Asia	5106622	cases	46.0	2022-20	3.91648334260887	389473	Epidemic intelligence national data		2022-05-29
+Oman	OMN	Asia	5106622	deaths	0.0	2022-20	0.195824167130444	4260	Epidemic intelligence national data		2022-05-29
+Pakistan	PAK	Asia	220892331	cases	586.0	2022-20	0.454520080192372	1529837	Epidemic intelligence national data		2022-05-29
+Pakistan	PAK	Asia	220892331	deaths	3.0	2022-20	0.0181083697287798	30379	Epidemic intelligence national data		2022-05-29
+Palau	PLW	Oceania	18092	cases	185.0	2022-20	1298.91664824232	4967	Epidemic intelligence national data		2022-05-29
+Palau	PLW	Oceania	18092	deaths	0.0	2022-20	0.0	6	Epidemic intelligence national data		2022-05-29
+Palestine	PSE	Asia	5101416	cases	127.0	2022-20	5.15543135474543	657456	Epidemic intelligence national data		2022-05-29
+Palestine	PSE	Asia	5101416	deaths	2.0	2022-20	0.392048011767713	5659	Epidemic intelligence national data		2022-05-29
+Panama	PAN	America	4314768	cases	20045.0	2022-20	969.136695182684	830287	Epidemic intelligence national data		2022-05-29
+Panama	PAN	America	4314768	deaths	21.0	2022-20	7.87991382155425	8227	Epidemic intelligence national data		2022-05-29
+Papua New Guinea	PNG	Oceania	8947027	cases	518.0	2022-20	6.33730064746647	44394	Epidemic intelligence national data		2022-05-29
+Papua New Guinea	PNG	Oceania	8947027	deaths	0.0	2022-20	0.0	651	Epidemic intelligence national data		2022-05-29
+Paraguay	PRY	America	7132530	cases	354.0	2022-20	7.92145283651103	650283	Epidemic intelligence national data		2022-05-29
+Paraguay	PRY	America	7132530	deaths	4.0	2022-20	1.82263516592289	18885	Epidemic intelligence national data		2022-05-29
+Peru	PER	America	32971846	cases	3886.0	2022-20	18.9070396604424	3576309	Epidemic intelligence national data		2022-05-29
+Peru	PER	America	32971846	deaths	76.0	2022-20	4.82229596729282	213116	Epidemic intelligence national data		2022-05-29
+Philippines	PHL	Asia	109581085	cases	809.0	2022-20	1.7548649020951	3688941	Epidemic intelligence national data		2022-05-29
+Philippines	PHL	Asia	109581085	deaths	0.0	2022-20	0.146010600278324	60455	Epidemic intelligence national data		2022-05-29
+Poland	POL	Europe	37840001	cases	2067.0	2022-20	13.2003167758902	6013764	TESSy COVID-19		2022-05-29
+Poland	POL	Europe	37840001	deaths	61.0	2022-20	3.46194494022344	116643	TESSy COVID-19		2022-05-29
+Portugal	PRT	Europe	10298252	cases	191261.0	2022-20	3417.97811900505	4507987	TESSy COVID-19		2022-05-29
+Portugal	PRT	Europe	10298252	deaths	221.0	2022-20	40.1038933597663	22883	TESSy COVID-19		2022-05-29
+Puerto Rico	PRI	America	2860840	cases	30268.0	2022-20	2202.220326897	639258	Epidemic intelligence national data		2022-05-29
+Puerto Rico	PRI	America	2860840	deaths	53.0	2022-20	27.2647194530278	4310	Epidemic intelligence national data		2022-05-29
+Qatar	QAT	Asia	2881060	cases	756.0	2022-20	66.2256252906916	367099	Epidemic intelligence national data		2022-05-29
+Qatar	QAT	Asia	2881060	deaths	0.0	2022-20	0.0	677	Epidemic intelligence national data		2022-05-29
+Romania	ROU	Europe	19201662	cases	2750.0	2022-20	33.471060994616	2836536	TESSy COVID-19		2022-05-29
+Romania	ROU	Europe	19201662	deaths	22.0	2022-20	2.44770478722102	61540	TESSy COVID-19		2022-05-29
+Russia	RUS	Europe	145934460	cases	32772.0	2022-20	47.9269940766561	18297608	Epidemic intelligence national data		2022-05-29
+Russia	RUS	Europe	145934460	deaths	667.0	2022-20	10.1415388798506	378426	Epidemic intelligence national data		2022-05-29
+Rwanda	RWA	Africa	12952209	cases	72.0	2022-20	1.01141048604142	130003	Epidemic intelligence national data		2022-05-29
+Rwanda	RWA	Africa	12952209	deaths	0.0	2022-20	0.0	1459	Epidemic intelligence national data		2022-05-29
+Saint Kitts And Nevis	KNA	America	53192	cases	44.0	2022-20	133.478718604301	5654	Epidemic intelligence national data		2022-05-29
+Saint Kitts And Nevis	KNA	America	53192	deaths	0.0	2022-20	0.0	43	Epidemic intelligence national data		2022-05-29
+Saint Lucia	LCA	America	183629	cases	617.0	2022-20	702.503417216235	25013	Epidemic intelligence national data		2022-05-29
+Saint Lucia	LCA	America	183629	deaths	2.0	2022-20	10.8915258483137	370	Epidemic intelligence national data		2022-05-29
+Saint Vincent And The Grenadines	VCT	America	110947	cases	80.0	2022-20	132.495696143204	8607	Epidemic intelligence national data		2022-05-29
+Saint Vincent And The Grenadines	VCT	America	110947	deaths	0.0	2022-20	0.0	106	Epidemic intelligence national data		2022-05-29
+Samoa	WSM	Oceania	198410	cases	1337.0	2022-20	868.40381029182	12382	Epidemic intelligence national data		2022-05-29
+Samoa	WSM	Oceania	198410	deaths	2.0	2022-20	25.2003427246611	25	Epidemic intelligence national data		2022-05-29
+San Marino	SMR	Europe	34453	cases	169.0	2022-20	1030.38922590195	17021	Epidemic intelligence national data		2022-05-29
+San Marino	SMR	Europe	34453	deaths	0.0	2022-20	0.0	115	Epidemic intelligence national data		2022-05-29
+Sao Tome And Principe	STP	Africa	219161	cases	0.0	2022-20	2.73771337053582	5970	Epidemic intelligence national data		2022-05-29
+Sao Tome And Principe	STP	Africa	219161	deaths	0.0	2022-20	0.0	73	Epidemic intelligence national data		2022-05-29
+Saudi Arabia	SAU	Asia	34813867	cases	3186.0	2022-20	21.9079368574597	763042	Epidemic intelligence national data		2022-05-29
+Saudi Arabia	SAU	Asia	34813867	deaths	12.0	2022-20	0.775553028912301	9130	Epidemic intelligence national data		2022-05-29
+Senegal	SEN	Africa	16743930	cases	28.0	2022-20	0.364311126479865	86073	Epidemic intelligence national data		2022-05-29
+Senegal	SEN	Africa	16743930	deaths	0.0	2022-20	0.0	1966	Epidemic intelligence national data		2022-05-29
+Serbia	SRB	Europe	6871547	cases	2546.0	2022-20	78.6285824720401	2015382	Epidemic intelligence national data		2022-05-29
+Serbia	SRB	Europe	6871547	deaths	19.0	2022-20	5.82110549487619	16068	Epidemic intelligence national data		2022-05-29
+Seychelles	SYC	Africa	98340	cases	245.0	2022-20	957.901159243441	43632	Epidemic intelligence national data		2022-05-29
+Seychelles	SYC	Africa	98340	deaths	0.0	2022-20	10.1688021151108	167	Epidemic intelligence national data		2022-05-29
+Sierra Leone	SLE	Africa	7976985	cases	0.0	2022-20	0.0	7682	Epidemic intelligence national data		2022-05-29
+Sierra Leone	SLE	Africa	7976985	deaths	0.0	2022-20	0.0	125	Epidemic intelligence national data		2022-05-29
+Singapore	SGP	Asia	5850343	cases	29402.0	2022-20	883.931078912809	1269635	Epidemic intelligence national data		2022-05-29
+Singapore	SGP	Asia	5850343	deaths	14.0	2022-20	3.93139342428299	1375	Epidemic intelligence national data		2022-05-29
+Sint Maarten	SXM	America	42882	cases	156.0	2022-20	363.78900237862	10279	Epidemic intelligence national data		2022-05-29
+Sint Maarten	SXM	America	42882	deaths	0.0	2022-20	0.0	86	Epidemic intelligence national data		2022-05-29
+Slovakia	SVK	Europe	5459781	cases	1696.0	2022-20	79.5269993430139	2289765	TESSy COVID-19		2022-05-29
+Slovakia	SVK	Europe	5459781	deaths	3.0	2022-20	1.28210270704997	19459	TESSy COVID-19		2022-05-29
+Slovenia	SVN	Europe	2108977	cases	2733.0	2022-20	309.581375235482	1022600	TESSy COVID-19		2022-05-29
+Slovenia	SVN	Europe	2108977	deaths	2.0	2022-20	12.8024155787379	7760	TESSy COVID-19		2022-05-29
+Solomon Islands	SLB	Oceania	686878	cases	0.0	2022-20	252.300990860095	18174	Epidemic intelligence national data		2022-05-29
+Solomon Islands	SLB	Oceania	686878	deaths	0.0	2022-20	2.91172522631384	146	Epidemic intelligence national data		2022-05-29
+Somalia	SOM	Africa	15893219	cases	3.0	2022-20	0.226511696592113	26521	Epidemic intelligence national data		2022-05-29
+Somalia	SOM	Africa	15893219	deaths	0.0	2022-20	0.0	1361	Epidemic intelligence national data		2022-05-29
+South Africa	ZAF	Africa	59308690	cases	42199.0	2022-20	135.300577369016	3921633	Epidemic intelligence national data		2022-05-29
+South Africa	ZAF	Africa	59308690	deaths	172.0	2022-20	6.62634767350282	100916	Epidemic intelligence national data		2022-05-29
+South Korea	KOR	Asia	51269183	cases	172315.0	2022-20	785.40943396738	17967672	Epidemic intelligence national data		2022-05-29
+South Korea	KOR	Asia	51269183	deaths	243.0	2022-20	11.449373008343	23987	Epidemic intelligence national data		2022-05-29
+South Sudan	SSD	Africa	11193729	cases	10.0	2022-20	0.410944377874433	17551	Epidemic intelligence national data		2022-05-29
+South Sudan	SSD	Africa	11193729	deaths	0.0	2022-20	0.0	138	Epidemic intelligence national data		2022-05-29
+Spain	ESP	Europe	47398695	cases	88009.0	2022-20	436.182894908816	12311444	TESSy COVID-19		2022-05-29
+Spain	ESP	Europe	47398695	deaths	230.0	2022-20	13.4602861956432	106053	TESSy COVID-19		2022-05-29
+Sri Lanka	LKA	Asia	21413250	cases	102.0	2022-20	0.95268116703443	663765	Epidemic intelligence national data		2022-05-29
+Sri Lanka	LKA	Asia	21413250	deaths	1.0	2022-20	0.14010017162271	16512	Epidemic intelligence national data		2022-05-29
+Sudan	SDN	Africa	43849269	cases	34.0	2022-20	0.182443178243177	62229	Epidemic intelligence national data		2022-05-29
+Sudan	SDN	Africa	43849269	deaths	3.0	2022-20	0.0912215891215883	4939	Epidemic intelligence national data		2022-05-29
+Suriname	SUR	America	586634	cases	232.0	2022-20	144.383039510155	80240	Epidemic intelligence national data		2022-05-29
+Suriname	SUR	America	586634	deaths	2.0	2022-20	18.7510440922279	1339	Epidemic intelligence national data		2022-05-29
+Sweden	SWE	Europe	10379295	cases	1823.0	2022-20	33.586096165491	2507061	TESSy COVID-19		2022-05-29
+Sweden	SWE	Europe	10379295	deaths	6.0	2022-20	3.17940669380724	18953	TESSy COVID-19		2022-05-29
+Switzerland	CHE	Europe	8670300	cases	8057.0	2022-20	216.601501678143	3650661	Epidemic intelligence national data		2022-05-29
+Switzerland	CHE	Europe	8670300	deaths	11.0	2022-20	2.88340657186026	13242	Epidemic intelligence national data		2022-05-29
+Syria	SYR	Asia	17500657	cases	9.0	2022-20	0.182850278135272	55879	Epidemic intelligence national data		2022-05-29
+Syria	SYR	Asia	17500657	deaths	0.0	2022-20	0.0	3150	Epidemic intelligence national data		2022-05-29
+Taiwan	TWN	Asia	23816775	cases	618097.0	2022-20	4322.03352469006	1386640	Epidemic intelligence national data		2022-05-29
+Taiwan	TWN	Asia	23816775	deaths	368.0	2022-20	21.7073890146756	1436	Epidemic intelligence national data		2022-05-29
+Tajikistan	TJK	Asia	9537642	cases	0.0	2022-20	0.0	17786	Epidemic intelligence national data		2022-05-29
+Tajikistan	TJK	Asia	9537642	deaths	0.0	2022-20	0.0	125	Epidemic intelligence national data		2022-05-29
+Thailand	THA	Asia	69799978	cases	36509.0	2022-20	120.709207100323	4415593	Epidemic intelligence national data		2022-05-29
+Thailand	THA	Asia	69799978	deaths	263.0	2022-20	9.05444411458124	29775	Epidemic intelligence national data		2022-05-29
+Timor Leste	TLS	Asia	1318442	cases	7.0	2022-20	0.834318081493156	22896	Epidemic intelligence national data		2022-05-29
+Timor Leste	TLS	Asia	1318442	deaths	0.0	2022-20	0.758470983175597	131	Epidemic intelligence national data		2022-05-29
+Togo	TGO	Africa	8278737	cases	23.0	2022-20	0.483165487682481	37046	Epidemic intelligence national data		2022-05-29
+Togo	TGO	Africa	8278737	deaths	0.0	2022-20	0.0	273	Epidemic intelligence national data		2022-05-29
+Tonga	TON	Oceania	105697	cases	550.0	2022-20	695.383974947255	11500	Epidemic intelligence national data		2022-05-29
+Tonga	TON	Oceania	105697	deaths	0.0	2022-20	0.0	11	Epidemic intelligence national data		2022-05-29
+Trinidad And Tobago	TTO	America	1399491	cases	3185.0	2022-20	458.666758128491	158225	Epidemic intelligence national data		2022-05-29
+Trinidad And Tobago	TTO	America	1399491	deaths	19.0	2022-20	26.4381835967505	3893	Epidemic intelligence national data		2022-05-29
+Tunisia	TUN	Africa	11818618	cases	574.0	2022-20	13.9694844185674	1042363	Epidemic intelligence national data		2022-05-29
+Tunisia	TUN	Africa	11818618	deaths	4.0	2022-20	5.58440927695607	28632	Epidemic intelligence national data		2022-05-29
+Turkey	TUR	Europe	83614362	cases	8071.0	2022-20	24.5101433650836	15062393	Epidemic intelligence national data		2022-05-29
+Turkey	TUR	Europe	83614362	deaths	25.0	2022-20	1.05245077394718	98925	Epidemic intelligence national data		2022-05-29
+Turks And Caicos Islands	TCA	America	38718	cases	77.0	2022-20	330.595588615114	6123	Epidemic intelligence national data		2022-05-29
+Turks And Caicos Islands	TCA	America	38718	deaths	0.0	2022-20	0.0	36	Epidemic intelligence national data		2022-05-29
+Uganda	UGA	Africa	45741000	cases	0.0	2022-20	0.0	164153	Epidemic intelligence national data		2022-05-29
+Uganda	UGA	Africa	45741000	deaths	0.0	2022-20	0.0	3598	Epidemic intelligence national data		2022-05-29
+Ukraine	UKR	Europe	43733759	cases	0.0	2022-20	6.49612579609267	5009301	Epidemic intelligence national data		2022-05-29
+Ukraine	UKR	Europe	43733759	deaths	0.0	2022-20	1.09755029289845	108497	Epidemic intelligence national data		2022-05-29
+United Arab Emirates	ARE	Asia	9890400	cases	2247.0	2022-20	46.2974197201327	904731	Epidemic intelligence national data		2022-05-29
+United Arab Emirates	ARE	Asia	9890400	deaths	0.0	2022-20	0.0	2302	Epidemic intelligence national data		2022-05-29
+United Kingdom	GBR	Europe	68059863	cases	28578.0	2022-20	153.851323503252	22232377	Epidemic intelligence national data		2022-05-29
+United Kingdom	GBR	Europe	68059863	deaths	480.0	2022-20	21.716176537117	177890	Epidemic intelligence national data		2022-05-29
+United Republic Of Tanzania	TZA	Africa	59734213	cases	0.0	2022-20	0.0937486194050971	33928	Epidemic intelligence national data		2022-05-29
+United Republic Of Tanzania	TZA	Africa	59734213	deaths	0.0	2022-20	0.0	803	Epidemic intelligence national data		2022-05-29
+United States Of America	USA	America	331002647	cases	677092.0	2022-20	431.110449699818	83290712	Epidemic intelligence national data		2022-05-29
+United States Of America	USA	America	331002647	deaths	2332.0	2022-20	14.0421837774608	1002174	Epidemic intelligence national data		2022-05-29
+United States Virgin Islands	VIR	America	104423	cases	777.0	2022-20	1596.39159955182	19020	Epidemic intelligence national data		2022-05-29
+United States Virgin Islands	VIR	America	104423	deaths	0.0	2022-20	0.0	113	Epidemic intelligence national data		2022-05-29
+Uruguay	URY	America	3473727	cases	8310.0	2022-20	398.649634815862	916388	Epidemic intelligence national data		2022-05-29
+Uruguay	URY	America	3473727	deaths	12.0	2022-20	4.03025338490906	7227	Epidemic intelligence national data		2022-05-29
+Uzbekistan	UZB	Asia	33469199	cases	111.0	2022-20	0.576649593556153	238929	Epidemic intelligence national data		2022-05-29
+Uzbekistan	UZB	Asia	33469199	deaths	0.0	2022-20	0.0	1637	Epidemic intelligence national data		2022-05-29
+Vanuatu	VUT	Oceania	307150	cases	195.0	2022-20	203.809213739215	8682	Epidemic intelligence national data		2022-05-29
+Vanuatu	VUT	Oceania	307150	deaths	0.0	2022-20	0.0	14	Epidemic intelligence national data		2022-05-29
+Venezuela	VEN	America	28435943	cases	323.0	2022-20	2.08890557981496	523343	Epidemic intelligence national data		2022-05-29
+Venezuela	VEN	America	28435943	deaths	4.0	2022-20	0.246167324220618	5716	Epidemic intelligence national data		2022-05-29
+Vietnam	VNM	Asia	97338583	cases	12257.0	2022-20	31.362692016998	10708887	Epidemic intelligence national data		2022-05-29
+Vietnam	VNM	Asia	97338583	deaths	10.0	2022-20	0.184921533119092	43075	Epidemic intelligence national data		2022-05-29
+Wallis And Futuna	WLF	Oceania	11246	cases	0.0	2022-20	0.0	454	Epidemic intelligence national data		2022-05-29
+Wallis And Futuna	WLF	Oceania	11246	deaths	0.0	2022-20	0.0	7	Epidemic intelligence national data		2022-05-29
+Western Sahara	ESH	Africa	597330	cases	0.0	2022-20	0.0	766	Epidemic intelligence national data		2022-05-29
+Western Sahara	ESH	Africa	597330	deaths	0.0	2022-20	0.0	1	Epidemic intelligence national data		2022-05-29
+Yemen	YEM	Asia	29825968	cases	0.0	2022-20	0.0	11819	Epidemic intelligence national data		2022-05-29
+Yemen	YEM	Asia	29825968	deaths	0.0	2022-20	0.0	2149	Epidemic intelligence national data		2022-05-29
+Zambia	ZMB	Africa	18383956	cases	568.0	2022-20	7.83291691951395	321195	Epidemic intelligence national data		2022-05-29
+Zambia	ZMB	Africa	18383956	deaths	2.0	2022-20	0.489557307469622	3985	Epidemic intelligence national data		2022-05-29
+Zimbabwe	ZWE	Africa	14862927	cases	1440.0	2022-20	15.8111521371262	250702	Epidemic intelligence national data		2022-05-29
+Zimbabwe	ZWE	Africa	14862927	deaths	12.0	2022-20	1.27834847066126	5495	Epidemic intelligence national data		2022-05-29
