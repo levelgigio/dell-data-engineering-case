@@ -1,7 +1,7 @@
 # Setup
 A Postgres Server was created using Docker using the following commands:
     ```docker pull postgres```
-
+Then:
     ```docker run --name dellPostgresDb -p 5455:5432 -e POSTGRES_USER=dellPostgresUser -e POSTGRES_PASSWORD=dellPostgresPW -e POSTGRES_DB=test -d postgres```
 
 # Exercise #1
