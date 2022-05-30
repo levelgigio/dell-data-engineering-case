@@ -5,4 +5,4 @@ from libs.insert_csv_data_to_db import insert_csv_data_to_db
 # Vaccination
 create_vaccination_table()
 get_vaccination_data()
-# insert_csv_data_to_db("vaccination.csv", "vaccination_by_country")
+insert_csv_data_to_db("vaccination.csv", "vaccination_by_country")
